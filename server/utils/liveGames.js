@@ -20,4 +20,4 @@ class LiveGames {
     }
 }
 
-module.exports = {LiveGames};
+export default LiveGames;

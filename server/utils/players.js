@@ -23,4 +23,4 @@ class Players {
     }
 }
 
-module.exports = {Players};
+export default Players;
